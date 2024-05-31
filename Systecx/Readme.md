@@ -1,4 +1,4 @@
-Systecx MiniAssignment
+MiniAssignment
 
 The project was created using .NET 6 and MySql 8.0
 
